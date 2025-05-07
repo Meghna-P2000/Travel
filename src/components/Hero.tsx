@@ -9,7 +9,8 @@ export default function Hero() {
         </h1>
         <p className="text-gray-700 mb-6">
           Built Wicket longer admire do barton vanity itself do in it. Preferred
-          to sportsmen it engrossed listening.
+          to sportsmen it engrossed listen
+          
         </p>
       </div>
       <img
